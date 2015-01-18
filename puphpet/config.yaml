@@ -11,8 +11,11 @@ vagrantfile-local:
             private_network: 192.168.56.101
             forwarded_port:
                 dS3Pde7eQKKh:
-                    host: '2222'
+                    host: '2200'
                     guest: '22'
+                Qlou7gVnuvFB:
+                    host: '8000'
+                    guest: '80'
         post_up_message: ''
         provider:
             virtualbox:
