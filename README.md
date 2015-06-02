@@ -8,3 +8,10 @@ puphpet/config.yaml
 forwarded_port:
  - host: '2200', guest: '22'
  - host: '8000', guest: '80'
+
+## Default Folder
+`/default`
+
+## Configuration Files
+`conf`
+
