@@ -13,5 +13,10 @@ forwarded_port:
 `/default`
 
 ## Configuration Files
-`conf`
+`/conf`
+
+## Stack - LAMP
+- Apache
+- Mysql
+- PHP
 
