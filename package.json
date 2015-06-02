@@ -1,0 +1,19 @@
+{
+  "name": "puphpet_node",
+  "version": "0.0.1",
+  "description": "LAMP stack with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valorbreak/puphpet.git"
+  },
+  "author": "Uri Acuesta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valorbreak/puphpet/issues"
+  },
+  "homepage": "https://github.com/valorbreak/puphpet#readme"
+}

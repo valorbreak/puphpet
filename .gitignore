@@ -1,3 +1,5 @@
 .vagrant/
 puphpet/files/
 default/*
+node_modules/
+.git
